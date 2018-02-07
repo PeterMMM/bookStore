@@ -1,0 +1,28 @@
+<?php
+echo"this is activity";
+
+?>
+
+<html>
+	<head>
+			<link rel="stylesheet" type="text/css" href="style/style.css">
+	</head>
+	<body>
+
+		<div class="frame">
+			<div class="heading">
+				<img class="coverImg" src="img/act1.jpg" alt="GG activity">			
+			</div>
+			<div class="nevBar">
+				<ul>
+					<li><a href="index.php">Home</a></li>
+					<li><a href="activity.php">Activities</a></li>
+					<li><a href="contact.php">Contact</a></li>
+				</ul>			
+			</div><br><br><br>
+			<div class="bodytxt">
+			This is body text.			
+			</div>
+		</div>
+	</body>
+</html>
